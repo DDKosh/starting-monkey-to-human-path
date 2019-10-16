@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE organization SYSTEM "organization.dtd">
+<organization>
+    <department name="отдельчик">
+        <employee firstname="Masha" secondname="Mashova">
+            <jobtitle>engineer</jobtitle>
+            <hiredate>"03-08-2016"</hiredate>
+            <salary>30000</salary>
+            <jobtitle/>
+        </employee>
+        <employee firstname="Zina" secondname="Zinovna">
+            <jobtitle>head</jobtitle>
+            <hiredate>"12-02-2010"</hiredate>
+            <salary>50000</salary>
+            <jobtitle/>
+        </employee>
+        <employee firstname="Alla" secondname="Allovna">
+            <jobtitle>manager</jobtitle>
+            <hiredate>"30-12-2018"</hiredate>
+            <salary>30000</salary>
+            <jobtitle/>
+        </employee>
+    </department>
+    <department name="отделище">
+        <employee firstname="Oleg" secondname="Olegov">
+            <jobtitle>engineer</jobtitle>
+            <hiredate>"23-07-2015"</hiredate>
+            <salary>40000</salary>
+            <jobtitle/>
+        </employee>
+        <employee firstname="Oleg" secondname="Olegov">
+            <jobtitle>assistant</jobtitle>
+            <hiredate>"10-02-2019"</hiredate>
+            <salary>20000</salary>
+            <jobtitle/>
+        </employee>
+    </department>
+    <department name="отделишко">
+        <employee firstname="Sidor" secondname="Sidorov">
+            <jobtitle>secretary</jobtitle>
+            <hiredate>"05-03-2017"</hiredate>
+            <salary>25000</salary>
+            <jobtitle/>
+        </employee>
+        <employee firstname="Ivan" secondname="Ivanov">
+            <jobtitle>assistant</jobtitle>
+            <hiredate>"01-07-2019</hiredate>
+            <salary>20000</salary>
+            <jobtitle/>
+        </employee>
+    </department>
+</organization>
